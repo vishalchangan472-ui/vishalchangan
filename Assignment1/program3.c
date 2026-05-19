@@ -1,4 +1,4 @@
-//Program to print 5 to 1 on screen
+
 #include<stdio.h>
 
 void Dispay()
