@@ -1,0 +1,16 @@
+//Program to print Marvellous 5 times on screen
+#include <stdio.h>
+void Dispay()
+{
+    int i=0;
+
+    for(i =1; i<=5; i++)
+    {
+        printf("Marvellous\n");
+    }
+}
+int main()
+{
+    Dispay();
+    return 0;
+}
